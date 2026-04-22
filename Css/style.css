@@ -1,0 +1,50 @@
+#background{
+position: absolute;
+height: 100%;
+width: 100%;
+margin: 0 auto;
+opacity: 70%;
+}
+#header {
+    position: relative;
+    background-color: transparent;
+    width:100%;
+    height: 185px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    
+}
+#logo{
+
+    width: 250px;
+    height: auto;
+
+}
+
+
+#menu{
+    position: relative;
+    background-color:transparent;
+    width:50%;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items:self-end;
+}
+
+#body-page{
+    position: relative;
+    background-color:color(from color srgb r g b);
+    width: 100%;
+    height:400px;
+    margin: 0 auto;
+}
+#footer{
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    width:100%;
+    height: 200px;
+    margin: 0 auto;
+}
