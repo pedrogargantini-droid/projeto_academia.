@@ -1,18 +1,49 @@
 #titulo-index{
-    text-align:center;
-    font-size: 40px;
+    text-align:auto;
+    font-size: 68px;
     color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    padding-top: 185px;
+    padding-bottom: 1px;
+}
+#titulo-index2{
+    text-align:auto;
+    font-size: 64px;
+    color:red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    padding-top: 1px;
+    padding-bottom: 238px;
+}
+#titulo-index3{
+    text-align:left;
+    font-size: 64px;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+#titulo-index4{
+    text-align:left;
+    font-size: 44px;
+    color:red;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin: auto;
+    
 }
-
 section{
-    margin: 0 auto;
-    display: flex;
+    float:right;
+    margin:auto;
+    display:inline-flex;
     width: 600px;
     height: 350px;
+    padding-top: 20px;
+
 }
 section img{
     width: 0;
