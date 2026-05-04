@@ -1,3 +1,31 @@
+#titulo-sobre{
+ text-align: justify;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ margin-top: 20px;
+ margin-left: 220px;
+ margin-right: 220px;
+ font-size: 30px;
+}
+#titulo-sobre1{
+    text-align: center;
+ text-transform: uppercase;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ margin-top: 20px;
+ margin-left: 80px;
+ margin-right: 80px;
+ font-size: 40px;
+ color: red;
+}
+#background{
+    position: absolute;
+    height: 170%;
+    width: 100%;
+    margin: 0 auto;
+    opacity: 90%;
+}
+
+
+
 .links{
     padding: 1.3em 3em;
     font-size: 12px;
